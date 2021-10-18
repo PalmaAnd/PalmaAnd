@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/NapeX"><img src="https://api.daily.dev/devcards/b5eeeddc3f154c5392dc55778bc9cb72.png?r=d0u" width="400" alt="NapeX's Dev Card"/></a>
+
 <!--
 **PalmaAnd/PalmaAnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
