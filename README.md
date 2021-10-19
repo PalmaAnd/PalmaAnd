@@ -5,7 +5,7 @@
   <a href="https://app.daily.dev/NapeX"><img src="https://github.com/PalmaAnd/PalmaAnd/blob/main/devcard.svg" width="400" alt="NapeX's Dev Card"/></a>
 </p> -->
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/PalmaAnd">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PalmaAnd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PalmaAnd&layout=compact&langs_count=8&theme=algolia"/>
