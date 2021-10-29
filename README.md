@@ -1,6 +1,6 @@
 <h1> Hello! 👋 </h1>
 
-- [This is my personal GitHub page, but as you can see this is still a WIP](#this-is-my-personal-github-page-but-as-you-can-see-this-is-still-a-wip)
+- [GitHub stats](#github-stats)
 - [Technology Stack](#technology-stack)
   - [Languages, Libraries and Databases](#languages-libraries-and-databases)
   - [Web Development](#web-development)
