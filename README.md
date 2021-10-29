@@ -7,7 +7,7 @@
   - [IDES and used Software](#ides-and-used-software)
 - [Now Playing 🎧](#now-playing-)
 - [Social Media](#social-media)
-## This is my personal GitHub page, but as you can see this is still a WIP
+## GitHub stats
 
 <!-- <p>
   <a href="https://app.daily.dev/NapeX"><img src="https://github.com/PalmaAnd/PalmaAnd/blob/main/devcard.svg" width="400" alt="NapeX's Dev Card"/></a>
