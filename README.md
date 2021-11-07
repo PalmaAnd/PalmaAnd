@@ -1,7 +1,7 @@
 <h1> Hello! 👋 </h1>
 
 - [GitHub stats](#github-stats)
-- [Technology Stack](#technology-stack)
+- [Skills 💼](#skills-)
   - [Languages, Libraries and Databases](#languages-libraries-and-databases)
   - [Web Development](#web-development)
   - [IDES and used Software](#ides-and-used-software)
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## Technology Stack
+## Skills 💼
 
 ### Languages, Libraries and Databases
 
@@ -58,7 +58,7 @@
 
 ## Social Media
 
-<a href="https://www.linkedin.com/in/andr%C3%A8-palma-65b99a223/" target="_blank">
+<a href="https://www.linkedin.com/in/palmaandr%C3%A8/" target="_blank">
   <img alt="Andrè Palma | LinkedIn" width="35px" src="./icons/linkedin.svg" />
 <a href="https://twitter.com/Palma_Andr" target="_blank">
   <img alt="Andrè Palma | Twitter" width="35px" src="./icons/twitter.svg" />
