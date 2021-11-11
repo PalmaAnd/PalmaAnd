@@ -1,4 +1,4 @@
-<h1> Hello! 👋 </h1>
+<h1> Welcome to my GitHub Profile! 👋 </h1>
 
 - [GitHub stats](#github-stats)
 - [Skills 💼](#skills-)
