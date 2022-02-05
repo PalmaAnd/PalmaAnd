@@ -1,65 +1,74 @@
-<h1> Welcome to my GitHub Profile! 👋 </h1>
+# Hi, I'm Andrè <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- [GitHub stats](#github-stats)
-- [Skills 💼](#skills-)
-  - [Languages, Libraries and Databases](#languages-libraries-and-databases)
-  - [Web Development](#web-development)
-  - [IDES and used Software](#ides-and-used-software)
-- [Now Playing 🎧](#now-playing-)
-- [Social Media](#social-media)
-## GitHub stats
 
-<!-- <p>
-  <a href="https://app.daily.dev/NapeX"><img src="https://github.com/PalmaAnd/PalmaAnd/blob/main/devcard.svg" width="400" alt="NapeX's Dev Card"/></a>
-</p> -->
+# About me
+<table>
+<tr>
 
-<p align="center">
-  <a href="https://github.com/PalmaAnd">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PalmaAnd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PalmaAnd&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+    🎓 I am currently working on a Discord.js Bot and some other small projects.  
+    🌱 I am currently learning GraphQL and also interested in Cyber Security.
+    🎯 My Goal is to learn, how to be more efficient and smarter as a programmer.
+    ✨ I love to create things with different languages and try new stuff.
 
-## Skills 💼
+</table>
 
-### Languages, Libraries and Databases
 
-<a href="https://www.java.com/" target="_blank"> <img alt="Java" width="35px" src="./icons/java.svg"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img alt="Python" width="35px" src="./icons/python.svg"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img alt="C#" width="35px" src="./icons/c-sharp-logo.svg"/> </a>
-<a href="https://www.w3schools.com/sql/" target="_blank"> <img alt="SQL" width="35px" src="./icons/sql-48.png"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img alt="Django" width="35px" src="./icons/django.svg"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" width="35px" src="./icons/mysql-logo.svg"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img alt="postgresql" width="35px" src="./icons/postgresql.svg"/> </a>
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 
-<a href="https://www.w3.org/html/" target="_blank"><img alt="HTML5" width="35px" src="./icons/html-5.svg" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" width="35px" src="./icons/css3.svg" /></a>
-<a href="https://www.javascript.com/" target="_blank"> <img alt="Javascript" width="35px" src="./icons/javascript.svg"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img alt="Typescript" width="35px" src="./icons/typescript.svg"/> </a>
-<a href="https://nodejs.org/" target="_blank"> <img alt="Node.js" width="35px" src="./icons/nodejs.svg"/> </a>
-<a href="https://angular.io/" target="_blank"> <img alt="Angular" width="35px" src="./icons/angularjs.svg"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img alt="Vue.js" width="35px" src="./icons/vue-js.svg"/> </a>
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### IDES and used Software
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img alt="Visual Studio" width="35px" src="./icons/visual-studio-2019.svg"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" width="35px" src="./icons/visual-studio-code-2019.svg"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img alt="Git" width="35px" src="./icons/git.svg"/> </a>
-<a href="https://github.com/PalmaAnd/" target="_blank"> <img alt="GitHub" width="35px" src="./icons/github.svg"/> </a>
-<a href="https://gitlab.com/gitlab-com" target="_blank"> <img alt="GitLab" width="35px" src="./icons/gitlab.svg"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img alt="Docker" width="35px" src="./icons/docker.svg"/> </a>
-<a href="https://www.heroku.com/" target="_blank"> <img alt="Heroku" width="35px" src="./icons/heroku.svg"/> </a>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-## Now Playing 🎧
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/napex_96)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## Social Media
+# 📊GitHub Stats :
+<div align=center>
 
-<a href="https://www.linkedin.com/in/palmaandr%C3%A8/" target="_blank">
-  <img alt="Andrè Palma | LinkedIn" width="35px" src="./icons/linkedin.svg" />
-<a href="https://twitter.com/Palma_Andr" target="_blank">
-  <img alt="Andrè Palma | Twitter" width="35px" src="./icons/twitter.svg" />
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=PalmaAnd&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PalmaAnd&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PalmaAnd&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+</div>
+
+## 🏆GitHub Trophies
+<div align=center>
+
+![](https://github-profile-trophy.vercel.app/?username=PalmaAnd&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palmaandrè) 
