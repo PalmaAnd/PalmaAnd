@@ -1,4 +1,4 @@
-# Hi, I'm Andrè <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Andrè <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" heighth="29px">
 
 
 # About me
