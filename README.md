@@ -5,8 +5,8 @@
 <table>
 <tr>
 
-    🎓 I am currently working on a Discord.js Bot and some other small projects.  
-    🌱 I am currently learning GraphQL and also interested in Cyber Security.
+    🎓 I am currently studying Computer Science at the Paris Lodron University Salzburg.  
+    🌱 I am currently working on the Advent of Code 2022.
     🎯 My Goal is to learn, how to be more efficient and smarter as a programmer.
     ✨ I love to create things with different languages and try new stuff.
 
