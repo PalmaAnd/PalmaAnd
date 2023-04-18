@@ -6,7 +6,10 @@
 <tr>
 
     🎓 I am currently studying Computer Science at the Paris Lodron University Salzburg.  
-    🌱 I am currently working on the Advent of Code 2022.
+    🌱 I am currently working on:
+        - mainly assignments from University
+        - Advent of Code 2022
+        - and a simple Website for D&D
     🎯 My Goal is to learn, how to be more efficient and smarter as a programmer.
     ✨ I love to create things with different languages and try new stuff.
 
