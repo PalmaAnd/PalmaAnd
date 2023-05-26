@@ -9,7 +9,7 @@
     🌱 I am currently working on:
         - mainly assignments from University
         - Advent of Code 2022
-        - and a simple (Website for D&D)[https://dungeons-and-dragons-tool-box.vercel.app/]
+        - and a simple [Website for D&D](https://dungeons-and-dragons-tool-box.vercel.app/)
     🎯 My Goal is to learn, how to be more efficient and smarter as a programmer.
     ✨ I love to create things with different languages and try new stuff.
 
