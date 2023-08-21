@@ -2,19 +2,14 @@
 
 
 ## About me
-<table>
-<tr>
-
-    🎓 I am currently studying Computer Science at the Paris Lodron University Salzburg.  
-    🌱 I am currently working on:
-        - mainly assignments from University
-        - Advent of Code 2022
-        - and a simple [Website for D&D](https://dungeons-and-dragons-tool-box.vercel.app/)
-    🎯 My Goal is to learn, how to be more efficient and smarter as a programmer.
-    ✨ I love to create things with different languages and try new stuff.
-
-</table>
-
+- 🎓 I am currently studying Computer Science at the Paris Lodron University Salzburg.  
+- 🌱 I am currently working on:
+    - mainly assignments from University
+    - Advent of Code 2022
+    - and a simple [Website for D&D](https://dungeons-and-dragons-tool-box.vercel.app/)
+    - a [interface tool for Notion](https://github.com/MaximilianMauroner/PersonalNotionManager) together with [@MaximilianMauroner](https://www.github.com/MaximilianMauroner)
+- 🎯 My Goal is to learn, how to be more efficient and smarter as a programmer.
+- ✨ I love to create things with different languages and try new stuff.
 
 ## 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
