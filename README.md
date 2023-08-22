@@ -5,7 +5,7 @@
 - 🎓 I am currently studying Computer Science at the Paris Lodron University Salzburg.  
 - 🌱 I am currently working on:
     - mainly assignments from University
-    - Advent of Code 2022
+    - [Advent of Code 2022](https://github.com/PalmaAnd/Advent-of-Code-2022) or on some [Programming Problems](https://github.com/PalmaAnd/Programming-Problems)
     - and a simple [Website for D&D](https://dungeons-and-dragons-tool-box.vercel.app/)
     - a [interface tool for Notion](https://github.com/MaximilianMauroner/PersonalNotionManager) together with [@MaximilianMauroner](https://www.github.com/MaximilianMauroner)
 - 🎯 My Goal is to learn, how to be more efficient and smarter as a programmer.
