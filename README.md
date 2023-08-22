@@ -55,4 +55,5 @@
 </div>
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palmaandrè) 
+[![LeetCode](https://badges.peiyuan.ch/leetcode/PalmaAnd/solved?logo=leetcode&label=PalmaAnd&style=for-the-badge&color=green)](https://leetcode.com/PalmaAnd/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palmaandrè)
