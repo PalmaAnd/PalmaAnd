@@ -6,7 +6,7 @@
 - 🌱 I am currently working on:
     - mainly assignments from University
     - a simple [Website for D&D](https://dungeons-and-dragons-tool-box.vercel.app/)
-    - a [system simulator for different standby scenarios](palmaand.github.io/standby-visualizer/)
+    - a [system simulator for different standby scenarios](https://palmaand.github.io/standby-visualizer/)
 - 🎯 My Goal is to learn, how to be more efficient and smarter as a programmer.
 - ✨ I love to create things with different languages and try new stuff.
 
